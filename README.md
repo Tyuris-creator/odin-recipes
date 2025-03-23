@@ -1,4 +1,1 @@
-# git_test
-TheOdinProject
-Hello Odin!
-Refreshing
+TOP first project, simple web page!
